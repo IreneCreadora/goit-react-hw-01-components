@@ -7,7 +7,8 @@
   --color-red: #f44336;
   --color-blue: #2196f3; */
   --color-primary-text: #212121;
-  --color-secondary-text: #757575;
+  --color-secondary-text: #e0dede;
+  --color-accent-gray: rgba(97, 95, 95, 0.5);
 }
 
 * {
